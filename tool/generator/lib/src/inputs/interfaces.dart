@@ -16,6 +16,8 @@ const comInterfacesToGenerate = <String>{
   'Windows.Win32.Media.Audio.IMMDevice',
   'Windows.Win32.Media.Audio.IMMDeviceEnumerator',
   'Windows.Win32.Media.Audio.ISimpleAudioVolume',
+  'Windows.Win32.Media.Audio.Endpoints.IAudioEndpointVolume',
+  'Windows.Win32.Media.Audio.Endpoints.IAudioEndpointVolumeEx',
   'Windows.Win32.Media.Speech.ISpEventSource',
   'Windows.Win32.Media.Speech.ISpNotifySource',
   'Windows.Win32.Media.Speech.ISpVoice',

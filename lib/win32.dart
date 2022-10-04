@@ -171,6 +171,8 @@ export 'src/com/iaudiorenderclient.dart';
 export 'src/com/iaudiosessioncontrol.dart';
 export 'src/com/iaudiosessionmanager.dart';
 export 'src/com/iaudiostreamvolume.dart';
+export 'src/com/iaudioendpointvolume.dart';
+export 'src/com/iaudioendpointvolumeex.dart';
 export 'src/com/ibindctx.dart';
 export 'src/com/ichannelaudiovolume.dart';
 export 'src/com/iclassfactory.dart';
